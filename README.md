@@ -1,16 +1,19 @@
-## Hi there 👋
+# Lilia Ourdani
 
-<!--
-**Lylia02/Lylia02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Développeuse full stack · Freelance & alternance
 
-Here are some ideas to get you started:
+Étudiante en Master DevOps et développement full stack, je développe des applications web et réalise des projets en freelance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+J’accorde une attention particulière au design des interfaces, à la simplicité d’utilisation et à la qualité du développement
+
+## Ce que je fais
+
+- Développement d’interfaces web et de fonctionnalités backend.
+- Création de sites et d’applications adaptés aux besoins des projets.
+- Approfondissement de mes compétences en DevOps et en déploiement.
+
+## Mes projets
+
+Mes dépôts regroupent mes réalisations, mes expérimentations et mes projets d’apprentissage.
+
+↓ Découvrez une sélection de mes projets ci-dessous.
